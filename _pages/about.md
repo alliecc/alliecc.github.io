@@ -17,7 +17,7 @@ Recent News
 ======
 
 1. Our paper "Argoverse: 3D Tracking and Forecasting With Rich Maps" is accepted by CVPR2019!
-2. 2018/2019 Summer intern at Argo AI LLC
+2. 2018/2019 Summer intern at <a href="https://www.argo.ai/">Argo AI</a> 
 3. Our paper "Deep Component Analysis via Alternating Direction Neural Networks" is accepted by ECCV2018!
 
 Recent Publications
