@@ -1,13 +1,15 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "About me"
-author_profile: true
+#title: "About me"
+#excerpt: "About me"
+#author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
+I am currently a PhD student in Robotics Institute of Carnegie Mellon University, under supervision of Dr. Simon Lucey  and Dr. Michael Kaess. I am interested in robot vision, especially for 3D reconstruction and efficient real-world deep network applications.
+Before CMU, I graduated from National Taiwan University in 2012, worked in Quanta computer and MediaTek as ISP(Image Signal Processor) algorithm developer for 3 years.
 
 -Recent News
 1. Our paper "Argoverse: 3D Tracking and Forecasting With Rich Maps" is accepted by CVPR2019!
