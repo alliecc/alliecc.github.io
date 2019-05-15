@@ -27,7 +27,7 @@ Recent Publications
 
 [2] Calvin Murdock, Ming-Fang Chang, Simon Lucey, Deep Component Analysis via Alternating DirectionNeural Networks, (ECCV), Sep. 2018 (<a href="https://arxiv.org/abs/1803.06407">link</a>)
 
-[3] Ming-Fang Chang, Simon Lucey, "Monocular Depth from Small Motion using Surface Normal Prediction", submitted (<a href="https://drive.google.com/file/d/0B7z8asMBafkiVHBpTXY0V0Vja0E/view?usp=sharing">here</a>), 2018
+[3] Ming-Fang Chang, Simon Lucey, "Monocular Depth from Small Motion using Surface Normal Prediction", submitted (<a href="https://drive.google.com/file/d/0B7z8asMBafkiVHBpTXY0V0Vja0E/view?usp=sharing">link</a>), 2018
 
 [4] Christopher Ham, Ming-Fang Chang, Simon Lucey, and Surya Singh , “Metric Monocular Depth from Small Motion Video Accelerated", International Conference on 3D Vision (3DV), 2017 (<a href="http://ci2cv.net/media/papers/3dv_fastdepth.pdf">link</a>)
 
