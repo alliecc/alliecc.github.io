@@ -11,6 +11,8 @@ redirect_from:
 I am currently a PhD student in Robotics Institute of Carnegie Mellon University, under supervision of Dr. Simon Lucey  and Dr. Michael Kaess. I am interested in robot vision, especially for 3D reconstruction and efficient real-world deep network applications.
 Before CMU, I graduated from National Taiwan University in 2012, worked in Quanta computer and MediaTek as ISP(Image Signal Processor) algorithm developer for 3 years.
 
+Contact: mingfanc at andrew dot cmu dot edu
+
 Recent News
 ======
 

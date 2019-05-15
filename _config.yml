@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : ""
+title                    : "Ming-Fang (Allie) Chang"
 title_separator          : "-"
 name                     : &name "Allie"
 description              : &description "PhD Student in Robotics Institute of Carnegie Metllon University"
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Ming-Fang (Allie) Chang"
-  avatar           : "https://github.com/alliecc/alliecc.github.io/blob/master/profile.jpg"
+#  name             : "Ming-Fang (Allie) Chang"
+  avatar           : "profile.jpg"
 #  bio              : "Your biography for the left-hand sidebar"
 #  location         : "Location"
 #  employer         :
 #  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
 #  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            : "mingfanc at andrew dot cmu dot edu"
+#  email            : "mingfanc at andrew dot cmu dot edu"
 #  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
