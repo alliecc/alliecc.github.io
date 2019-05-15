@@ -23,7 +23,7 @@ Recent News
 Recent Publications
 ======
 
-[1] Ming-Fang Chang\*; John Lambert\*; Patsorn Sangkloy\*; Jagjeet Singh\*; Slawomir Bak; Andrew Hartnett; De Wang; Peter Carr; Simon Lucey; Deva Ramanan; James Hays, "Argoverse: 3D Tracking and Forecasting With Rich Maps" (CVPR), June. 2019  (Thanks for the hard work of all co-authors!)
+[1] Ming-Fang Chang"*"; John Lambert\*; Patsorn Sangkloy\*; Jagjeet Singh\*; Slawomir Bak; Andrew Hartnett; De Wang; Peter Carr; Simon Lucey; Deva Ramanan; James Hays, "Argoverse: 3D Tracking and Forecasting With Rich Maps" (CVPR), June. 2019  (Thanks for the hard work of all co-authors!)
 
 [2] Calvin Murdock, Ming-Fang Chang, Simon Lucey, Deep Component Analysis via Alternating DirectionNeural Networks, (ECCV), Sep. 2018 (link)
 
