@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 I am currently a second-year PhD student in Robotics Institute of Carnegie Mellon University, under supervision of  <a href="http://ci2cv.net/">Simon Lucey</a>  and <a href="http://rpl.ri.cmu.edu/">Michael Kaess</a> . I am interested in robot vision, especially for 3D reconstruction and efficient real-world deep network applications.
-Before CMU, I graduated from National Taiwan University in 2012, and worked in Quanta Computer and MediaTek as ISP(Image Signal Processor) algorithm developer for 3 years.
+Before CMU, I graduated from Electrical Engineering department of National Taiwan University in 2012, and worked in Quanta Computer and MediaTek as ISP(Image Signal Processor) algorithm developer for 3 years.
 
 Contact: mingfanc at andrew dot cmu dot edu
 
@@ -31,4 +31,9 @@ Recent Publications
 
 [4] Christopher Ham, Ming-Fang Chang, Simon Lucey, and Surya Singh , “Metric Monocular Depth from Small Motion Video Accelerated", accepted by International Conference on 3D Vision (3DV), 2017 (<a href="http://ci2cv.net/media/papers/3dv_fastdepth.pdf">link</a>)
 
+Teaching
+======
+
+1. Robot Localization and Mapping(16833), 2019 fall at CMU
+2. Computer Vision(16720B) 2018 fall at CMU
 
