@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a PhD student in Robotics Institute of Carnegie Mellon University, under supervision of  <a href="http://ci2cv.net/">Simon Lucey</a>  and <a href="http://rpl.ri.cmu.edu/">Michael Kaess</a> . I am interested in robot vision, especially for 3D reconstruction and efficient real-world deep network applications.
-Before CMU, I graduated from National Taiwan University in 2012, worked in Quanta computer and MediaTek as ISP(Image Signal Processor) algorithm developer for 3 years.
+I am currently a second-year PhD student in Robotics Institute of Carnegie Mellon University, under supervision of  <a href="http://ci2cv.net/">Simon Lucey</a>  and <a href="http://rpl.ri.cmu.edu/">Michael Kaess</a> . I am interested in robot vision, especially for 3D reconstruction and efficient real-world deep network applications.
+Before CMU, I graduated from National Taiwan University in 2012, and worked in Quanta Computer and MediaTek as ISP(Image Signal Processor) algorithm developer for 3 years.
 
 Contact: mingfanc at andrew dot cmu dot edu
 
@@ -23,7 +23,7 @@ Recent News
 Recent Publications
 ======
 
-[1] Ming-Fang Chang\*; John Lambert\*; Patsorn Sangkloy\*; Jagjeet Singh\*; Slawomir Bak; Andrew Hartnett; De Wang; Peter Carr; Simon Lucey; Deva Ramanan; James Hays, "Argoverse: 3D Tracking and Forecasting With Rich Maps" (CVPR), June. 2019  (Thanks for the hard work of all co-authors!)
+[1] Ming-Fang Chang\*; John Lambert\*; Patsorn Sangkloy\*; Jagjeet Singh\*; Slawomir Bak; Andrew Hartnett; De Wang; Peter Carr; Simon Lucey; Deva Ramanan; James Hays, "Argoverse: 3D Tracking and Forecasting With Rich Maps" (CVPR), June. 2019  (Thanks to the hard work of all co-authors!!)
 
 [2] Calvin Murdock, Ming-Fang Chang, Simon Lucey, Deep Component Analysis via Alternating DirectionNeural Networks, (ECCV), Sep. 2018 (<a href="https://arxiv.org/abs/1803.06407">link</a>)
 
