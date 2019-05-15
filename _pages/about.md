@@ -17,6 +17,7 @@ Before CMU, I graduated from National Taiwan University in 2012, worked in Quant
 3. Our paper "Deep Component Analysis via Alternating Direction Neural Networks" is accepted by ECCV2018!
 
 -Recent Publications
+
 [1] Ming-Fang Chang*; John Lambert*; Patsorn Sangkloy*; Jagjeet Singh*; Slawomir Bak; Andrew Hartnett; De Wang; Peter Carr; Simon Lucey; Deva Ramanan; James Hays, "Argoverse: 3D Tracking and Forecasting With Rich Maps" (CVPR), June. 2019  (Thanks for the hard work of all co-authors!)
 
 [2] Calvin Murdock, Ming-Fang Chang, Simon Lucey, Deep Component Analysis via Alternating DirectionNeural Networks, (ECCV), Sep. 2018 (link)
