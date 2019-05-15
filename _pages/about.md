@@ -8,6 +8,7 @@ redirect_from:
   - /about.html
 ---
 
+
 -Recent News
 1. Our paper "Argoverse: 3D Tracking and Forecasting With Rich Maps" is accepted by CVPR2019!
 2. 2018/2019 Summer intern at Argo AI LLC
