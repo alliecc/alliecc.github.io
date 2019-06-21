@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 I am currently a second-year PhD student in Robotics Institute of Carnegie Mellon University, under supervision of  <a href="http://ci2cv.net/">Simon Lucey</a>  and <a href="http://rpl.ri.cmu.edu/">Michael Kaess</a> . I am interested in robot vision, especially for 3D reconstruction and efficient real-world deep network applications.
-Before CMU, I graduated from Electrical Engineering department of National Taiwan University in 2012, and worked in Quanta Computer and MediaTek as ISP(Image Signal Processor) algorithm developer for 3 years.
+Before CMU, I graduated from Electrical Engineering department of National Taiwan University in 2012, directed by <a href="https://www.ntueeacl.com/">Dr. Li-chen Fu</a>.  And worked in Quanta Computer and MediaTek as ISP(Image Signal Processor) algorithm developer for 3 years.
 
 Contact: mingfanc at andrew dot cmu dot edu
 
@@ -23,7 +23,13 @@ Recent News
 Recent Publications
 ======
 
-1. Ming-Fang Chang\*; John Lambert\*; Patsorn Sangkloy\*; Jagjeet Singh\*; Slawomir Bak; Andrew Hartnett; De Wang; Peter Carr; Simon Lucey; Deva Ramanan; James Hays, "Argoverse: 3D Tracking and Forecasting With Rich Maps", accepted by CVPR2019  (Thanks to the hard work of all co-authors!!)
+1. Ming-Fang Chang\*; John Lambert\*; Patsorn Sangkloy\*; Jagjeet Singh\*; Slawomir Bak; Andrew Hartnett; De Wang; Peter Carr; Simon Lucey; Deva Ramanan; James Hays, "Argoverse: 3D Tracking and Forecasting With Rich Maps", accepted by CVPR2019  (Thanks to the hard work of all co-authors!!) (<a href="http://openaccess.thecvf.com/content_CVPR_2019/papers/Chang_Argoverse_3D_Tracking_and_Forecasting_With_Rich_Maps_CVPR_2019_paper.pdf">link</a>)
+News about Argoverse:
+<a href="https://www.forbes.com/sites/samabuelsamid/2019/06/19/argo-ai-and-waymo-release-automated-driving-data-sets/#47bdd8be1d00">link</a>
+<a href="https://medium.com/@ArgoAI/introducing-argoverse-data-and-hd-maps-for-computer-vision-and-machine-learning-research-to-fcf2a072b05">link</a>
+<a href="https://www.cnet.com/roadshow/news/argo-ai-argoverse-hd-maps-data-free-research/">link</a>
+<a href="https://techcrunch.com/2019/06/19/self-driving-car-startup-argo-ai-is-giving-researchers-free-access-to-its-hd-maps/">link</a>
+<a href="http://fordauthority.com/2019/06/argo-ai-to-offer-its-hd-maps-to-researchers-for-free/">link</a>
 
 2. Calvin Murdock, Ming-Fang Chang, Simon Lucey, Deep Component Analysis via Alternating DirectionNeural Networks, accepted by ECCV2018 (<a href="https://arxiv.org/abs/1803.06407">link</a>)
 
@@ -34,6 +40,7 @@ Recent Publications
 Teaching
 ======
 
-1. Robot Localization and Mapping(16833), 2019 fall at CMU
-2. Computer Vision(16720B), 2018 fall at CMU
+1. TA for Robot Localization and Mapping(16833), 2019 fall at CMU
+2. TA for Computer Vision(16720B), 2018 fall at CMU
+
 
