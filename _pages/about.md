@@ -24,11 +24,16 @@ Recent Publications
 ======
 
 1. Ming-Fang Chang\*; John Lambert\*; Patsorn Sangkloy\*; Jagjeet Singh\*; Slawomir Bak; Andrew Hartnett; De Wang; Peter Carr; Simon Lucey; Deva Ramanan; James Hays, "Argoverse: 3D Tracking and Forecasting With Rich Maps", accepted by CVPR2019  (Thanks to the hard work of all co-authors!!) (<a href="http://openaccess.thecvf.com/content_CVPR_2019/papers/Chang_Argoverse_3D_Tracking_and_Forecasting_With_Rich_Maps_CVPR_2019_paper.pdf">link</a>)
+
 News about Argoverse:
 <a href="https://www.forbes.com/sites/samabuelsamid/2019/06/19/argo-ai-and-waymo-release-automated-driving-data-sets/#47bdd8be1d00">Forves</a>
+
 <a href="https://medium.com/@ArgoAI/introducing-argoverse-data-and-hd-maps-for-computer-vision-and-machine-learning-research-to-fcf2a072b05">Our blog post</a>
+
 <a href="https://www.cnet.com/roadshow/news/argo-ai-argoverse-hd-maps-data-free-research/">CNET</a>
+
 <a href="https://techcrunch.com/2019/06/19/self-driving-car-startup-argo-ai-is-giving-researchers-free-access-to-its-hd-maps/">TechCrunch</a>
+
 <a href="http://fordauthority.com/2019/06/argo-ai-to-offer-its-hd-maps-to-researchers-for-free/">FordAuthority</a>
 
 2. Calvin Murdock, Ming-Fang Chang, Simon Lucey, Deep Component Analysis via Alternating DirectionNeural Networks, accepted by ECCV2018 (<a href="https://arxiv.org/abs/1803.06407">link</a>)
