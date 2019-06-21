@@ -16,9 +16,7 @@ Contact: mingfanc at andrew dot cmu dot edu
 Recent News
 ======
 
-1. Our paper "Argoverse: 3D Tracking and Forecasting With Rich Maps" is accepted by CVPR2019!
-
-News about Argoverse:
+1. Our paper "Argoverse: 3D Tracking and Forecasting With Rich Maps" is accepted by CVPR2019! News about Argoverse:
 <a href="https://www.forbes.com/sites/samabuelsamid/2019/06/19/argo-ai-and-waymo-release-automated-driving-data-sets/#47bdd8be1d00">Forbes</a>/
 <a href="https://medium.com/@ArgoAI/introducing-argoverse-data-and-hd-maps-for-computer-vision-and-machine-learning-research-to-fcf2a072b05">Our blog post</a>/
 <a href="https://www.cnet.com/roadshow/news/argo-ai-argoverse-hd-maps-data-free-research/">CNET</a>/
