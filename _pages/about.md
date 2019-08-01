@@ -26,7 +26,7 @@ Recent News
 2. 2018/2019 Summer intern at <a href="https://www.argo.ai/">Argo AI</a> 
 3. Our paper "Deep Component Analysis via Alternating Direction Neural Networks" is accepted by ECCV2018!
 
-Recent Publications
+Recent Publications (<a href="https://scholar.google.com/citations?user=YPCJCQEAAAAJ&hl=en">Google Scholar</a> )
 ======
 
 1. Ming-Fang Chang\*; John Lambert\*; Patsorn Sangkloy\*; Jagjeet Singh\*; Slawomir Bak; Andrew Hartnett; De Wang; Peter Carr; Simon Lucey; Deva Ramanan; James Hays, "Argoverse: 3D Tracking and Forecasting With Rich Maps", accepted by CVPR2019  (Thanks to the hard work of all co-authors!!) (Oral) (<a href="http://openaccess.thecvf.com/content_CVPR_2019/papers/Chang_Argoverse_3D_Tracking_and_Forecasting_With_Rich_Maps_CVPR_2019_paper.pdf">link</a>) (<a href="https://www.argoverse.org/">website</a>)
