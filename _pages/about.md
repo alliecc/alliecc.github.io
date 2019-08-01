@@ -29,13 +29,13 @@ Recent News
 Recent Publications
 ======
 
-1. Ming-Fang Chang\*; John Lambert\*; Patsorn Sangkloy\*; Jagjeet Singh\*; Slawomir Bak; Andrew Hartnett; De Wang; Peter Carr; Simon Lucey; Deva Ramanan; James Hays, "Argoverse: 3D Tracking and Forecasting With Rich Maps", accepted by CVPR2019  (Thanks to the hard work of all co-authors!!) (<a href="http://openaccess.thecvf.com/content_CVPR_2019/papers/Chang_Argoverse_3D_Tracking_and_Forecasting_With_Rich_Maps_CVPR_2019_paper.pdf">link</a>) (<a href="https://www.argoverse.org/">website</a>)
+1. Ming-Fang Chang\*; John Lambert\*; Patsorn Sangkloy\*; Jagjeet Singh\*; Slawomir Bak; Andrew Hartnett; De Wang; Peter Carr; Simon Lucey; Deva Ramanan; James Hays, "Argoverse: 3D Tracking and Forecasting With Rich Maps", accepted by CVPR2019  (Thanks to the hard work of all co-authors!!) (Oral) (<a href="http://openaccess.thecvf.com/content_CVPR_2019/papers/Chang_Argoverse_3D_Tracking_and_Forecasting_With_Rich_Maps_CVPR_2019_paper.pdf">link</a>) (<a href="https://www.argoverse.org/">website</a>)
 
 2. Calvin Murdock, Ming-Fang Chang, Simon Lucey, Deep Component Analysis via Alternating DirectionNeural Networks, accepted by ECCV2018 (<a href="https://arxiv.org/abs/1803.06407">link</a>)
 
 3. Ming-Fang Chang, Simon Lucey, "Monocular Depth from Small Motion using Surface Normal Prediction", submitted (<a href="https://drive.google.com/file/d/0B7z8asMBafkiVHBpTXY0V0Vja0E/view?usp=sharing">link</a>), 2018
 
-4. Christopher Ham, Ming-Fang Chang, Simon Lucey, and Surya Singh , “Metric Monocular Depth from Small Motion Video Accelerated", accepted by International Conference on 3D Vision (3DV), 2017 (<a href="http://ci2cv.net/media/papers/3dv_fastdepth.pdf">link</a>)
+4. Christopher Ham, Ming-Fang Chang, Simon Lucey, and Surya Singh , “Metric Monocular Depth from Small Motion Video Accelerated", accepted by International Conference on 3D Vision (3DV), 2017 (Spotlight) (<a href="http://ci2cv.net/media/papers/3dv_fastdepth.pdf">link</a>)
 
 Teaching
 ======
