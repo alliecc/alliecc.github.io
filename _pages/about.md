@@ -16,7 +16,7 @@ Contact: mingfanc at andrew dot cmu dot edu
 Recent News
 ======
 
-1. <i>How to Cultivate Talent in the Self-Driving Field? Start with Interns.</i> https://medium.com/@ArgoAI/how-to-cultivate-talent-in-the-self-driving-field-start-with-interns-839eedcdb985
+1. <i>How to Cultivate Talent in the Self-Driving Field? Start with Interns.</i>  <a href="https://medium.com/@ArgoAI/how-to-cultivate-talent-in-the-self-driving-field-start-with-interns-839eedcdb985">link</a> 
 
 2. Our paper "Argoverse: 3D Tracking and Forecasting With Rich Maps" is accepted by CVPR2019! News about Argoverse:
 <a href="https://www.forbes.com/sites/samabuelsamid/2019/06/19/argo-ai-and-waymo-release-automated-driving-data-sets/#47bdd8be1d00">Forbes</a>/
