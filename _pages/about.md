@@ -16,15 +16,17 @@ Contact: mingfanc at andrew dot cmu dot edu
 Recent News
 ======
 
-1. Our paper "Argoverse: 3D Tracking and Forecasting With Rich Maps" is accepted by CVPR2019! News about Argoverse:
+1. <i>How to Cultivate Talent in the Self-Driving Field? Start with Interns.</i> https://medium.com/@ArgoAI/how-to-cultivate-talent-in-the-self-driving-field-start-with-interns-839eedcdb985
+
+2. Our paper "Argoverse: 3D Tracking and Forecasting With Rich Maps" is accepted by CVPR2019! News about Argoverse:
 <a href="https://www.forbes.com/sites/samabuelsamid/2019/06/19/argo-ai-and-waymo-release-automated-driving-data-sets/#47bdd8be1d00">Forbes</a>/
 <a href="https://medium.com/@ArgoAI/introducing-argoverse-data-and-hd-maps-for-computer-vision-and-machine-learning-research-to-fcf2a072b05">Our blog post</a>/
 <a href="https://www.cnet.com/roadshow/news/argo-ai-argoverse-hd-maps-data-free-research/">CNET</a>/
-<a href="https://techcrunch.com/2019/06/19/self-driving-car-startup-argo-ai-is-giving-researchers-free-access-to-its-hd-maps/">TechCrunch</a>/
+<a href="https://techcrunch.com/2019/06/19/self-driving-car-startup-argo-ai-is-giving-researchers-free-access-to-</i>its-hd-maps/">TechCrunch</a>/
 <a href="http://fordauthority.com/2019/06/argo-ai-to-offer-its-hd-maps-to-researchers-for-free/">FordAuthority</a>
 
-2. 2018/2019 Summer intern at <a href="https://www.argo.ai/">Argo AI</a> 
-3. Our paper "Deep Component Analysis via Alternating Direction Neural Networks" is accepted by ECCV2018!
+3. 2018/2019 Summer intern at <a href="https://www.argo.ai/">Argo AI</a> 
+4. Our paper "Deep Component Analysis via Alternating Direction Neural Networks" is accepted by ECCV2018!
 
 Recent Publications
 ======
