@@ -17,8 +17,8 @@ Recent News
 ======
 - New argoverse challenges in CVPR2020: <a href="https://www.argoverse.org/tasks.html?fbclid=IwAR14-eVf28RGQ1HkZwOcla_2_ssyBTFRpuPJCqMClqAGQOGBOQWt6qP33Wk">link</a>. 
 
-[<a href="https://evalai.cloudcv.org/web/challenges/challenge-page/453/overview">Tracking challenge</a>.]
-[<a href="https://evalai.cloudcv.org/web/challenges/challenge-page/454/overview">Forecasting challenge</a>.]
+  [<a href="https://evalai.cloudcv.org/web/challenges/challenge-page/453/overview">Tracking challenge</a>.]
+  [<a href="https://evalai.cloudcv.org/web/challenges/challenge-page/454/overview">Forecasting challenge</a>.]
 
 - <i>How to Cultivate Talent in the Self-Driving Field? Start with Interns.</i>  <a href="https://medium.com/@ArgoAI/how-to-cultivate-talent-in-the-self-driving-field-start-with-interns-839eedcdb985">link</a> 
 
